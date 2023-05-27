@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = PetstoreAPI
+build_property.RootNamespace = PetstoreAPI
+build_property.ProjectDir = D:\_education\8.sem_master\crossplatform\PetStore.Xamarin.KPIZ\PetstoreAPI\PetstoreAPI\

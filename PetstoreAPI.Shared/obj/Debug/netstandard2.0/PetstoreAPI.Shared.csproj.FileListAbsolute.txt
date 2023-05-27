@@ -1,0 +1,5 @@
+D:\_education\8.sem_master\xamarin\kpiz\myProject\PetstoreAPI\PetstoreAPI.Shared\obj\Debug\netstandard2.0\PetstoreAPI.Shared.csproj.AssemblyReference.cache
+D:\_education\8.sem_master\xamarin\kpiz\myProject\PetstoreAPI\PetstoreAPI.Shared\obj\Debug\netstandard2.0\PetstoreAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\_education\8.sem_master\xamarin\kpiz\myProject\PetstoreAPI\PetstoreAPI.Shared\obj\Debug\netstandard2.0\PetstoreAPI.Shared.AssemblyInfoInputs.cache
+D:\_education\8.sem_master\xamarin\kpiz\myProject\PetstoreAPI\PetstoreAPI.Shared\obj\Debug\netstandard2.0\PetstoreAPI.Shared.AssemblyInfo.cs
+D:\_education\8.sem_master\xamarin\kpiz\myProject\PetstoreAPI\PetstoreAPI.Shared\obj\Debug\netstandard2.0\PetstoreAPI.Shared.csproj.CoreCompileInputs.cache
